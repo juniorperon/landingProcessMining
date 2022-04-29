@@ -1,0 +1,84 @@
+* {
+    color: black;
+    font-family: monospace, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav a{
+    color:#F6FFF8;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fab:hover {
+    color: royalblue;
+}
+
+.cor-primaria{
+    background-color: rgb(43, 78, 184);
+}
+
+.cor-secundaria{
+    background-color: white;
+}
+
+
+.titulosgray{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom:20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: black;
+}
+
+.titulosazul{
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom:20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(43, 78, 184);
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+section p a:hover {
+    color:royalblue;
+}
+
+section a {
+    color:#C9CEBD;
+    padding-left: 5px;
+}
+
+section a:hover {
+    color:black;
+}
+
+footer p {
+    padding-top:0%;
+}
+
+footer a:hover {
+    color: black;
+}
+
+nav a:hover{
+    color: royalblue;
+}
+
+.nav-link:hover{
+    color:royalblue;
+}
+
+section div a {
+    font-size: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
